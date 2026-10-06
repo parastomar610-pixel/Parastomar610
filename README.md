@@ -27,6 +27,11 @@
 
 > 🔍 I turn raw data into clear insights and reports that people can act on.
 
+<!-- Apne real achievements daalo, jaise:
+- 📉 Reduced manual reporting time by [X]% using Excel/Power Query automation
+- 📊 Built [X]+ dashboards used by [team/department]
+-->
+
 ---
 
 ## 🛠️ Tech Stack
@@ -71,10 +76,14 @@ EDA on real-world NYC Yellow Taxi trip data: data cleaning, outlier detection, f
 
 Interactive dashboards and MIS reports for KPI tracking, performance analysis and data validation.
 
+🔗 View Project → *(coming soon)*
+
 ### 🗄️ SQL Data Analysis
 **MySQL · SQL**
 
 Data extraction, joins, subqueries, GROUP BY / HAVING and analytical queries on real-world datasets.
+
+🔗 View Project → *(coming soon)*
 
 ---
 
