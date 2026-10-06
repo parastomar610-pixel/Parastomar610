@@ -1,118 +1,99 @@
-<table>
-  <tr>
-    <td align="left" width="30%">
-      <strong>Hi, I’m Paras Tomar 👋</strong>
-    </td>
-    <td align="center" width="70%">
-      <h1>MIS Executive | Data Analyst | Business Analytics</h1>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi, I'm Paras Tomar 👋</h1>
+<h3 align="center">MIS Executive | Data Analyst | Business Analytics</h3>
 
-<img src="https://komarev.com/ghpvc/?username=ParasTomar&style=flat-square&color=blue" alt="Profile Views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parastomar610-pixel&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
-</div>
-
-<div align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/">
-      <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://github.com/">
-      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
-  </div>
-</div>
-
-# 👨‍💻 About Me
-
-* 💼 MIS Executive & Data Analytics professional with **1.6+ years of experience**.
-* 📊 Experienced in **MIS Reporting, Data Analysis, Dashboard Development and Data Management**.
-* 📈 Strong knowledge of **Advanced Excel, Power BI, Power Query and SQL**.
-* 🐍 Currently building skills in **Python for Data Analysis **.
-* 🧹 Experienced in **Data Cleaning, Data Validation and Report Automation**.
-* 📋 Skilled in preparing **Daily, Weekly and Monthly MIS Reports**.
-* 🎯 Interested in **Data Analytics, Business Intelligence and Business Analyst roles**.
-* 🔍 I enjoy transforming raw data into meaningful insights and actionable reports.
-* 🚀 Continuously learning new tools and working on real-world data analytics projects.
-
-📫 **Email:** [parastomar610@gmail.com](mailto:parastomar610@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/paras-tomar-165364186/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:parastomar610@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### 📊 Data Analytics & BI
+- 💼 MIS Executive & Data Analyst with **1.6+ years** of experience in MIS reporting, dashboards and data management.
+- 📊 Strong in **Advanced Excel, Power BI, Power Query and SQL**.
+- 🧹 Experienced in **data cleaning, validation and report automation**.
+- 📋 Prepare **daily, weekly and monthly MIS reports** for business decision-making.
+- 🐍 Currently building **Python for Data Analysis** skills (Pandas, NumPy, Matplotlib, Seaborn).
+- 🎯 Open to **Data Analyst, Business Analyst and BI Developer** roles.
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge\&logo=microsoft\&logoColor=white)
-
-### 🐍 Programming & Data Analysis
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge\&logo=python\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+> 🔍 I turn raw data into clear insights and reports that people can act on.
 
 ---
 
-# 📂 Featured Projects
+## 🛠️ Tech Stack
+
+**📊 Data Analytics & BI**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**🐍 Python & Data Analysis**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+**🗄️ Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**🔧 Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📂 Featured Projects
 
 ### 🚕 NYC Yellow Taxi – Exploratory Data Analysis
+**Python · Pandas · NumPy · Matplotlib · Seaborn**
 
-**Python | Pandas | NumPy | Matplotlib | Seaborn**
+EDA on real-world NYC Yellow Taxi trip data: data cleaning, outlier detection, fare and trip distance analysis, and trend identification.
 
-Exploratory Data Analysis of real-world NYC Yellow Taxi trip data, including data cleaning, preprocessing, statistical analysis, visualization, outlier detection, fare analysis, trip distance analysis and identification of important patterns and trends.
+🔗 [View Project →](https://github.com/parastomar610-pixel/EDA-Project-using-Python-NYC-Yellow-Taxi-Real-World-Data)
 
-### 📊 MIS Reporting & Dashboard Projects
+### 📊 MIS Reporting & Dashboards
+**Excel · Power BI · Power Query**
 
-**Excel | Power BI | Power Query**
+Interactive dashboards and MIS reports for KPI tracking, performance analysis and data validation.
 
-Developing interactive dashboards and MIS reports for KPI tracking, performance analysis, data validation and business reporting.
+### 🗄️ SQL Data Analysis
+**MySQL · SQL**
 
-### 🗄️ SQL Data Analysis Projects
-
-**MySQL | SQL**
-
-Working with real-world datasets to perform data extraction, filtering, aggregation, joins, subqueries, GROUP BY, HAVING and analytical queries.
-
----
-
-# 📈 Currently Learning
-
-* 🐍 Python for Data Analytics
-* 📊 Advanced Power BI
-* 🗄️ Advanced SQL
-* 📈 Statistics for Data Analysis
-* 🔄 Data Cleaning & Automation
+Data extraction, joins, subqueries, GROUP BY / HAVING and analytical queries on real-world datasets.
 
 ---
 
-# 🔥 GitHub Stats
+## 📈 Currently Learning
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ParasTomar\&theme=highcontrast\&date_format=M%20j%5B%2C%20Y%5D)
+- 🐍 Python for Data Analytics
+- 📊 Advanced Power BI (DAX)
+- 🗄️ Advanced SQL
+- 📈 Statistics for Data Analysis
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-### 💡 Turning Data into Insights
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=parastomar610-pixel&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
-**MIS | Data Analytics | Power BI | SQL | Python | Excel**
+---
 
-</div>
+<p align="center"><b>💡 Turning Data into Insights</b></p>
+<p align="center">MIS · Data Analytics · Power BI · SQL · Python · Excel</p>
